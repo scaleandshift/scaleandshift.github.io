@@ -9,12 +9,16 @@ AI is a rapidly evolving field, and the "old" methods are often insufficient for
 
 While benchmarks provide a useful snapshot of progress, they are far from perfect and can sometimes even be misleading.
 
-**1. Benchmarks are Often Too Narrow or Not Representative of Real-World Use Cases**
+### 1. Benchmarks are Often Too Narrow or Not Representative of Real-World Use Cases
 
 *   **Limited Scope:** Many benchmarks focus on a specific set of tasks (e.g., reading comprehension, question answering, or a particular style of text generation). This can lead to models that are highly optimized for these specific tasks but perform poorly on more general or diverse applications.
+
 *   **Specific Formatting:** Benchmarks often impose a particular format of input and output. This can encourage models to optimize for format adherence rather than understanding the core problem. For example, a benchmark may use a specific prompt style that is unnatural to a user.
+
 *   **Artificial Datasets:** Some datasets used in benchmarks are artificially constructed and might not reflect the complexity or nuances of real-world data. This can result in models that overfit to the benchmark's peculiarities, instead of truly learning the underlying concepts.
+
 *  **Static Nature**: LLMs improve quickly, while benchmarks may not always evolve as rapidly, causing an issue in relevance.
+
 *   **Lack of Diversity:** Datasets might lack diversity regarding language, demographics, geographic location, topic coverage, etc. This can result in models that perform poorly when used in different contexts or with different users.
 
 
