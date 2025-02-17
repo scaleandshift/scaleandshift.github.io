@@ -2,21 +2,18 @@ name: Raman
 dp: https://avatars.githubusercontent.com/u/194662099?s=200&v=4
 description: "
   <p>
-    Developed by Raman
+  Exploring ML, one transformation at a time
   </p>
   <br/>
-  <p>
-    You should follow him on <a href='https://github.com/raman-r-4978' target='_blank'>Github</a>
-  </p>
 "
-email: dev_raman@outlook.com
+# email: dev_raman@outlook.com
 contact:
   - title: linkedin
-    url: https://www.linkedin.com/in/ramanrajarathinam
+    url: https://www.linkedin.com/in/raman-r-a02b8810a/
   - title: github
     url: https://github.com/raman-r-4978
   - title: twitter
-    url: https://twitter.com/raman
+    url: https://x.com/raman_4334
   # - title: dev
   #   url: https://dev.to/raman
   # - title: email
