@@ -11,7 +11,7 @@ The world of LLMs is increasingly driven by benchmarks and leaderboards, promisi
 
 While benchmarks provide a useful snapshot of progress, they are far from perfect and can sometimes even be misleading. This post delves into the reality of LLM evaluation, examining the limitations of current benchmarks, the dangers of "chasing the score," and the crucial need for a more holistic and nuanced approach to assessing these transformative technologies. We'll explore how to move beyond simple metrics and focus on what truly matters: building reliable, safe, and beneficial AI for everyone.
 
-### The Illusion of Progress: Why Benchmarks Can Be Misleading
+### The Illusion of Progress
 
 While benchmarks offer a tempting snapshot of LLM performance, they're far from a complete picture. Blindly chasing leaderboard scores can lead us astray. Here's why:
 
