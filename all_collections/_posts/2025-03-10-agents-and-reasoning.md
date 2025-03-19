@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI Agents and Reasoning: Thoughts and Insights
+title: "AI Agents and Reasoning: Thoughts and Insights"
 date: 2025-03-19
 categories: ["llm", "agents", "llm-reasoning", "ai"]
 ---
