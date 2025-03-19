@@ -60,7 +60,7 @@ This generates long reasoning sequences, making it look like they’re thinking.
  
 The existing models that score and critique responses (Reward Models & Critic Models) haven't really been tested properly to see how well they catch mistakes in these long reasoning chains.
 
-### Key Issues (from Alibaba's DeltaBench Study) - [paper](https://arxiv.org/pdf/2502.19361)
+### Key Issues (from Alibaba's [DeltaBench](https://arxiv.org/pdf/2502.19361) Study)
 1. **High Error Rates:** Models frequently make fundamental mistakes (math, logic, etc.).
 2. **Critic Models Struggle:** Even top models (e.g., GPT-4-turbo-128k) only catch 40.8% of errors.
 3. **Poor Self-Correction:** 67.8% of reflections don’t fix mistakes.
@@ -72,7 +72,6 @@ The existing models that score and critique responses (Reward Models & Critic Mo
 - Specialized "o1-like" models aren’t special – Models designed for long reasoning (like DeepSeek-R1) don’t do any better at error detection than regular models.
 
 ---
-<br>
 <br>
 
 Thoughts from [Actual LLM agents are coming. They will be trained](https://vintagedata.org/blog/posts/designing-llm-agents)
