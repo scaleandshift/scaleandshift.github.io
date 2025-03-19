@@ -75,7 +75,7 @@ The existing models that score and critique responses (Reward Models & Critic Mo
 <br>
 <br>
 
-Thoughts from [Designing LLM Agents](https://vintagedata.org/blog/posts/designing-llm-agents)
+Thoughts from [Actual LLM agents are coming. They will be trained](https://vintagedata.org/blog/posts/designing-llm-agents)
 
 The term agent is widely used in Reinforcement Learning, where agents are always interacting with their environment by making decisions or taking actions.
  
@@ -116,3 +116,7 @@ Imagine a chatbot assisting with travel planning. Instead of trying to fit all t
 ## Conclusion
 
 The development of AI agents and reasoning mechanisms is ongoing. While challenges remain, incremental improvements in reinforcement learning, training data, and reasoning capabilities will shape the future of AI-driven agents.
+
+#### References
+1. [DeltaBench](https://vintagedata.org/blog/posts/designing-llm-agents)
+2. [Designing LLM Agents](https://vintagedata.org/blog/posts/designing-llm-agents)
